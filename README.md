@@ -1,2 +1,2 @@
-# ketchup
-Super lightweight state management library for roblox
+# melon
+Super lightweight state library for use with roact
